@@ -26,13 +26,13 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["커넥
 
 .단계
 . BlueXP 탐색 메뉴에서 * Storage > Canvas * 를 선택합니다.
-. Canvas에서 * 작업 환경 추가 * 를 클릭하고 * 온-프레미스 * 를 선택합니다.
+. Canvas에서 * 작업 환경 추가 * 를 선택하고 * 온-프레미스 * 를 선택합니다.
 . E-Series * 옆에서 * 검색 * 을 선택합니다.
 . 메시지가 표시되면 연결선을 만듭니다.
 +
 자세한 내용은 위의 링크를 참조하십시오.
 
-. E-Series Cluster Details_ 페이지에서 스토리지 시스템 컨트롤러의 도메인 이름 또는 IP 주소, 시스템에 대한 관리자 자격 증명을 입력한 다음 * Add * 를 클릭합니다.
+. E-Series Cluster Details_ 페이지에서 스토리지 시스템 컨트롤러의 도메인 이름 또는 IP 주소, 시스템에 대한 관리자 자격 증명을 입력한 다음 * Add * 를 선택합니다.
 +
 image:screenshot-cluster-details.png["도메인 이름 또는 IP 주소와 admin 사용자 이름 및 암호를 입력하라는 메시지가 표시된 E-Series 클러스터 세부 정보 페이지를 보여주는 스크린샷"]
 
