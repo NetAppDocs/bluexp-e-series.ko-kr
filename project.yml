@@ -13,16 +13,18 @@ sidebar:
   - title: E-Series 문서
     url: "/index.html"
   - title: 릴리스 정보
-    url: "/whats-new.html"
+    entries:
+    - title: 새로운 소식
+      url: "/whats-new.html"
   - title: 시작하십시오
     entries:
     - title: E-Series 시스템에 대해 알아보십시오
       url: "/task-discover-e-series.html"
-  - title: E-Series 클러스터 관리
+  - title: E-Series 시스템 관리
     entries:
     - title: E-Series 시스템을 확인하십시오
       url: "/task-view-e-series.html"
-    - title: E-Series를 제거합니다
+    - title: 작업 환경을 제거합니다
       url: "/task-remove-e-series.html"
   - title: 지식 및 지원
     entries:
@@ -42,7 +44,7 @@ homepage:
     links:
     - title: E-Series 시스템을 확인하십시오
       url: "/task-view-e-series.html"
-    - title: E-Series를 제거합니다
+    - title: 작업 환경을 제거합니다
       url: "/task-remove-e-series.html"
   - title: 관련 링크
     links:

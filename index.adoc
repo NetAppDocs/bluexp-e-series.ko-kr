@@ -2,8 +2,8 @@
 layout: astra 
 sidebar: sidebar 
 permalink: index.html 
-lead: Discover your E-Series storage systems from BlueXP to get a complete view of data across your hybrid multicloud. 
-summary: BlueXP의 E-Series 스토리지 시스템을 검색하여 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다. 
+lead: Discover your E-Series systems from BlueXP to get a complete view of data across your hybrid multicloud. 
+summary: BlueXP에서 E-Series 시스템을 살펴보고 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다. 
 ---
 = BlueXP를 사용한 E-Series 관리
 :hardbreaks:
