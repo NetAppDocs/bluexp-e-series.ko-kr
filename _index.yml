@@ -1,0 +1,29 @@
+---
+indexpage:
+  title: BlueXP를 사용한 E-Series 관리
+  summary: BlueXP에서 E-Series 시스템을 검색하여 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다.
+  keywords: bluexp-family, documentation, e-series, cloud
+  lead: BlueXP에서 E-Series 시스템을 살펴보고 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 파악할 수 있습니다.
+  tiles:
+  - title: 시작하십시오
+    links:
+    - title: E-Series 시스템에 대해 알아보십시오
+      url: "/task-discover-e-series.html"
+  - title: E-Series 시스템 관리
+    links:
+    - title: E-Series 시스템을 확인하십시오
+      url: "/task-view-e-series.html"
+    - title: 작업 환경을 제거합니다
+      url: "/task-remove-e-series.html"
+  - title: 관련 링크
+    links:
+    - title: BlueXP 외부 관리를 위한 E-Series 문서
+      url: https://docs.netapp.com/us-en/e-series-family/
+  - title: 블로그 커뮤니티
+    links:
+    - title: NetApp 커뮤니티
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXP 블로그
+      url: https://cloud.netapp.com/blog
+    - title: 클라우드 웨비나
+      url: https://cloud.netapp.com/events
